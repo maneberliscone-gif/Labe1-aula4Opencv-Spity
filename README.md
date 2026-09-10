@@ -1,1 +1,1 @@
-# Labe1-aula4Opencv-Spity
+# Labe1-aula4Opencv-SciPy
